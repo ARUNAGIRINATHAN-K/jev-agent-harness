@@ -27,26 +27,7 @@ The **Jev Agent Harness** is an enterprise-grade Java Spring Boot framework desi
 
 The technology stack is selected to provide maximum performance, strict type safety, modular pluggability, and seamless operation within modern cloud-native environments.
 
-```
-+-----------------------------------------------------------------------------+
-|                            Jev Agent Harness                                |
-|                                                                             |
-|  +---------------------+   +--------------------+   +--------------------+  |
-|  |     Java 21 LTS     |   |  Spring Boot 4.x   |   |   Spring AI 2.0+   |  |
-|  |  (Virtual Threads)  |   |  (Spring Framework)|   | (Advisor Pipeline) |  |
-|  +---------------------+   +--------------------+   +--------------------+  |
-|                                                                             |
-|  +---------------------+   +--------------------+   +--------------------+  |
-|  |     Jev Engine      |   |   Resilience4j     |   |   OpenTelemetry    |  |
-|  |  (System One AI)    |   | (Circuit Breaker)  |   | (Micrometer Tracing|  |
-|  +---------------------+   +--------------------+   +--------------------+  |
-|                                                                             |
-|  +---------------------+   +--------------------+   +--------------------+  |
-|  |   PostgreSQL / PGV  |   |   Redis (Lettuce)  |   |  Gradle 8.x (KTS)  |  |
-|  |   (Persistence/Vec) |   | (Caching/Sessions) |   | (Build System)     |  |
-|  +---------------------+   +--------------------+   +--------------------+  |
-+-----------------------------------------------------------------------------+
-```
+![environment](../assets/img/environment-setup.png)
 
 ---
 
