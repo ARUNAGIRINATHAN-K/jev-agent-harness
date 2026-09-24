@@ -3,7 +3,8 @@
 > **Version:** 0.1.0-draft  
 > **Last Updated:** 2026-09-23  
 > **Status:** Draft  
-> **Owner:** Arunagirinathan K
+> **Owner:** Arunagirinathan K  
+> **Companion Documents:** [SRS.md](SRS.md) · [TECH_STACK.md](TECH_STACK.md) · [AGENT.md](AGENT.md) · [ARCHITECTURE.md](ARCHITECTURE.md) · [IMPLEMENTATION_PLAN.md](IMPLEMENTATION_PLAN.md)
 
 ---
 

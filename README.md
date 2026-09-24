@@ -77,6 +77,7 @@ cd jev-agent-harness
 * [**TECH_STACK.md**](docs/TECH_STACK.md) — Technology Stack — core frameworks, decision engines, libraries & tools
 * [**AGENT.md**](docs/AGENT.md) — Agent Behavior — lifecycle, decision points, tool contracts
 * [**ARCHITECTURE.md**](docs/ARCHITECTURE.md) — Architecture — system design, package structure, deployment
+* [**IMPLEMENTATION_PLAN.md**](docs/IMPLEMENTATION_PLAN.md) — Implementation Plan — phases, GitHub release versions, focus & deliverables
 
 ---
 
