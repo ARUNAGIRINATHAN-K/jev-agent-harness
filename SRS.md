@@ -3,7 +3,7 @@
 > **Version:** 0.1.0-draft  
 > **Last Updated:** 2026-09-23  
 > **Status:** Draft  
-> **Companion Documents:** [PRD.md](PRD.md) · [TECH_STACK.md](TECH_STACK.md) · [ARCHITECTURE.md](ARCHITECTURE.md) · [AGENT.md](AGENT.md)
+> **Companion Documents:** [PRD.md](PRD.md) · [TECH_STACK.md](TECH_STACK.md) · [AGENT.md](AGENT.md) · [ARCHITECTURE.md](ARCHITECTURE.md) · [IMPLEMENTATION_PLAN.md](IMPLEMENTATION_PLAN.md) · [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
 
@@ -491,9 +491,9 @@ erDiagram
 
 ```
 IDLE → PLANNING → ACTING → OBSERVING → EVALUATING → COMPLETED
-                                                    → FAILED
-                                                    → PAUSED → (resume) → PLANNING
-                                    → CANCELLED
+                                                     → FAILED
+                                                     → PAUSED → (resume) → PLANNING
+                                     → CANCELLED
 ```
 
 ---
