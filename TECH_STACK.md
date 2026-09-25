@@ -3,7 +3,7 @@
 > **Version:** 0.1.0-draft  
 > **Last Updated:** 2026-09-23  
 > **Status:** Draft  
-> **Companion Documents:** [PRD.md](PRD.md) · [SRS.md](SRS.md) · [AGENT.md](AGENT.md) · [ARCHITECTURE.md](ARCHITECTURE.md)
+> **Companion Documents:** [PRD.md](PRD.md) · [SRS.md](SRS.md) · [AGENT.md](AGENT.md) · [ARCHITECTURE.md](ARCHITECTURE.md) · [IMPLEMENTATION_PLAN.md](IMPLEMENTATION_PLAN.md) · [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
 
@@ -27,7 +27,7 @@ The **Jev Agent Harness** is an enterprise-grade Java Spring Boot framework desi
 
 The technology stack is selected to provide maximum performance, strict type safety, modular pluggability, and seamless operation within modern cloud-native environments.
 
-![environment](../assets/img/environment-setup.png)
+![environment](assets/img/environment-setup.png)
 
 ---
 
